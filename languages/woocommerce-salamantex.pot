@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salamantex Payment for WooCommerce\n"
+"POT-Creation-Date: 2020-03-24 13:30+0100\n"
+"PO-Revision-Date: 2020-03-24 13:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../Desktop/Neuer Ordner (3)/woocommerce\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wc-gateway-salamantex.php:36
+#: admin/class-wc-gateway-salamantex.php:92
+msgid "Salamantex Crypto Payment Service"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:37
+#: admin/class-wc-gateway-salamantex.php:99
+msgid ""
+"Pay quickly and easily with the following crypto currencies: Bitcoin, "
+"Ethereum, Dash, Nimiq, Litecoin, Ripple or Stellar"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:83
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:85
+msgid "Enable Salamantex"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:89
+msgid "Title"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:91
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:96
+msgid "Description"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:98
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:103
+msgid "Instructions"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:105
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:106
+msgid "Salamantex - All-in-one crypto payment solution."
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:110
+msgid "Test mode"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:111
+msgid "Enable Test Mode"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:113
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:118
+msgid "Test API key"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:120
+msgid "Enter Test API key"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:121
+msgid "5e79fab88e5ec1000a3e9403-16aaa9f5-a0a3-454f-9788-4ef654e61eba"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:124
+msgid "Test URL"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:126
+msgid "Enter the API test URL"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:127
+msgid "https://webapi.test.salamantex.com/webshop/v1/"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:130
+msgid "Live API key"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:132
+msgid "Enter Live API key"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:135
+msgid "Live URL"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:137
+msgid "Enter the API live URL"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:138
+msgid "https://webapi.salamantex.com/webshop/v1/"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:141
+msgid "Make order processing"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:142
+msgid "Enable Processing order status if Salamantex status is FTS_PRETTY_SAFE"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:144
+msgid "The default order status for FTS_PRETTY_SAFE is Pending Payment."
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:279
+msgid "Salamantex payment ID: "
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:280
+msgid "Check Salamantex transaction status: "
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:317
+msgid "Salamantex payment status: "
+msgstr ""
+
+#: admin/class-woocommerce-salamantex-admin.php:132
+msgid "Settings"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:160
+msgid "This payment method is currently not available"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:164
+msgid "Stellar"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:167
+msgid "Ripple"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:170
+msgid "Litecoin"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:173
+msgid "Ethereum"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:176
+msgid "Dash"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:176
+msgid "Nimiq"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:179
+msgid "Charry"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:182
+msgid "Bitcoin"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:200
+msgid "Once every 10 seconds"
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:252
+msgid "Salamantex payment status - double checked: "
+msgstr ""
+
+#: public/class-woocommerce-salamantex-public.php:314
+msgid "Unique Salamantex payment URL: "
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:279
+msgid "Default description"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:279
+msgid "Use the default description"
+msgstr ""
+
+#: admin/class-wc-gateway-salamantex.php:279
+msgid "Use the default description instead of the user defined one."
+msgstr ""

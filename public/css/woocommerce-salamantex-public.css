@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.woocommerce-checkout .payment_method_salamantex_gateway .salamantex-currencies {
+    display: inline-block;
+    padding: 0px;
+    max-height: 2.4em;
+    margin: 5px 10px 0 10px;
+}
+
+.woocommerce-checkout #payment .payment_methods li.payment_method_salamantex_gateway .salamantex-currencies img {
+    padding: 0 5px;
+    vertical-align: middle;
+    max-height: 1.5em;
+    max-width: 100%;
+    float: left;
+}
